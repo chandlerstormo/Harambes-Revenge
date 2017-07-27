@@ -1,3 +1,0 @@
-# README #
-
-ITP 380 Final Project: HARAMBE'S REVENGE
