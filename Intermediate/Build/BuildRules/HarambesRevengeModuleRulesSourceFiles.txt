@@ -1,0 +1,3 @@
+/Users/Chandler/Documents/HarambesRevenge/Source/HarambesRevenge/HarambesRevenge.Build.cs
+/Users/Chandler/Documents/HarambesRevenge/Source/HarambesRevenge.Target.cs
+/Users/Chandler/Documents/HarambesRevenge/Source/HarambesRevengeEditor.Target.cs
